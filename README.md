@@ -12,3 +12,15 @@ git init
 def coucou(n):
     return n
 ```
+
+## Créer un commit 
+
+pour ajouter les modifications d'un fichier à votre commit!
+```sh
+git add <nom de votre fichier>
+```
+
+Pour sauvegarder le commit:
+```
+git commit -m "message"
+```
