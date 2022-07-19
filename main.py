@@ -1,5 +1,4 @@
 """
-ok
-Documentation importante de hello
+Documentation importante
 """
 print("Hello wawaaaaa")
