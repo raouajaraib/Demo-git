@@ -36,9 +36,9 @@ liste=[u0,u1]
 nombreIteration=int(input("Donner le nombre d'itération de la suite fabboccini: "))
 for i in range(0,nombreIteration):
 #Faire la somme
-  u=u0+u1
-  #Actualiser les valeurs de u0 et u1
-  u0=u1
-  u1=u
-  liste.append(u)
+    u=u0+u1
+    #Actualiser les valeurs de u0 et u1
+    u0=u1
+    u1=u
+    liste.append(u)
 print(liste)
